@@ -82,7 +82,7 @@ tr:nth-child(even) {
 }
 
 .tbody {
-  height: 250px;
+  height: 500px;
   display: inline-block;
   overflow: auto;
   width: 100%;

@@ -129,6 +129,7 @@ class Home extends React.Component {
                                             </thead>
                                             <tbody >
                                                 {
+
                                                     this.state.allPost.length > 0 ?
                                                         this.state.allPost.map((item, index) =>
                                                             <tr key={index + 1}>
