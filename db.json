@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "post": "typicode"
+    },
+    {
+      "title": "First",
+      "post": "first",
+      "id": 2
+    },
+    {
+      "title": "fgnh",
+      "post": "nhmn",
+      "id": 3
+    },
+    {
+      "title": "Check",
+      "post": "check",
+      "id": 4
+    },
+    {
+      "title": "second",
+      "post": "second time",
+      "id": 5
+    },
+    {
+      "title": "third",
+      "post": "gdff\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "id": 6
+    },
+    {
+      "title": "ghfhf",
+      "post": "\nhgh",
+      "id": 7
+    }
+  ]
+}

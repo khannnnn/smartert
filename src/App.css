@@ -1,0 +1,88 @@
+.form-main{
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.form-field{
+  padding: 10px;
+}
+
+.post{
+  background-color: lightgray;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.home{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.post-main{
+  /* background-color: lightgray; */
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.post-input{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.center-div{
+  justify-content: center;
+}
+
+
+
+.com-width{
+  width: 100%;
+}
+
+.main-home{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.left-div{
+  width: 50%;
+}
+
+.sub-home{
+  width: 80%;
+  display: flex;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.tbody {
+  height: 250px;
+  display: inline-block;
+  overflow: auto;
+}
