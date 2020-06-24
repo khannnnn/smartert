@@ -1,39 +1,14 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "post": "typicode"
+      "title": "Profile description",
+      "post": "Your profile description tells potential clients what you do, who you are, and what makes you special! Be sure to start off strong as the beginning portion of your profile's description appears in search results. To help you make the most of your description we came up with these 5 Profile Description ",
+      "id": 1
     },
     {
-      "title": "First",
-      "post": "first",
+      "title": "Bengaluru",
+      "post": "Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.",
       "id": 2
-    },
-    {
-      "title": "fgnh",
-      "post": "nhmn",
-      "id": 3
-    },
-    {
-      "title": "Check",
-      "post": "check",
-      "id": 4
-    },
-    {
-      "title": "second",
-      "post": "second time",
-      "id": 5
-    },
-    {
-      "title": "third",
-      "post": "gdff\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "id": 6
-    },
-    {
-      "title": "ghfhf",
-      "post": "\nhgh",
-      "id": 7
     }
   ]
 }

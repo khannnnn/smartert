@@ -85,4 +85,5 @@ tr:nth-child(even) {
   height: 250px;
   display: inline-block;
   overflow: auto;
+  width: 100%;
 }
